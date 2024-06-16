@@ -5,9 +5,9 @@
 
 - 😄 Pronomes: Ela/dela
 - ☀️
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
 
-![](https://tenor.com/pt-BR/view/naruto-gif-19427546)
-
+![]()
 
 <!---
 R-dna/R-dna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
